@@ -1,5 +1,2 @@
-Hey
-Good day
-Good morning
-How are you?
-Yo!
+Hola!
+Que tal?
