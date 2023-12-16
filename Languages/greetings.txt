@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hola!
 Que tal?
+=======
+Salut
+Bonjour
+Comment ca va?
+>>>>>>> French
